@@ -1,9 +1,7 @@
 ### Hi there 👋
  Welcome to my page, i'm a self taught data scientist and frontend developer. still learning by the way 😂 
-<!--
-**BeefWeb/BeefWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ... Sentiment analysis with Natural Language Processing. 
 - 🌱 I’m currently learning ...how to become a very very dynamic machine learning engineer
