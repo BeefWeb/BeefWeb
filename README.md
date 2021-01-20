@@ -1,5 +1,5 @@
 ### Hi there 👋
- Welcome to my page, i'm a self taught data scientist and frontend developer. still learning by the way 😂 
+ Welcome to my page, i'm a self taught data scientist, frontend developer and budding iOS developer. still learning by the way 😂 
 
 
 
